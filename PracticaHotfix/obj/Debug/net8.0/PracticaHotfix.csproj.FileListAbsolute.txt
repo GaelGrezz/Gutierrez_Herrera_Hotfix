@@ -1,0 +1,14 @@
+D:\Proyectos\PracticaHotfix\PracticaHotfix\bin\Debug\net8.0\PracticaHotfix.exe
+D:\Proyectos\PracticaHotfix\PracticaHotfix\bin\Debug\net8.0\PracticaHotfix.deps.json
+D:\Proyectos\PracticaHotfix\PracticaHotfix\bin\Debug\net8.0\PracticaHotfix.runtimeconfig.json
+D:\Proyectos\PracticaHotfix\PracticaHotfix\bin\Debug\net8.0\PracticaHotfix.dll
+D:\Proyectos\PracticaHotfix\PracticaHotfix\bin\Debug\net8.0\PracticaHotfix.pdb
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\PracticaHotfix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\PracticaHotfix.AssemblyInfoInputs.cache
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\PracticaHotfix.AssemblyInfo.cs
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\PracticaHotfix.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\PracticaHotfix.dll
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\refint\PracticaHotfix.dll
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\PracticaHotfix.pdb
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\PracticaHotfix.genruntimeconfig.cache
+D:\Proyectos\PracticaHotfix\PracticaHotfix\obj\Debug\net8.0\ref\PracticaHotfix.dll
